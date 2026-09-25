@@ -204,7 +204,7 @@
 .modal-checkbox:checked + .modal-checkbox-label .custom-checkbox {
   border-color: #404bbf;
   background-color: #404bbf;
-  color: #fff;
+  color: #f4f4fd;
 }
 
 .modal-checkbox:checked + .modal-checkbox-label .checkbox-icon {
