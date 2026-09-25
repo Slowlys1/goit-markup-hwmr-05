@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none">
+  <symbol id="icon-antenna" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+    <path d="M12 2v6" stroke-linecap="round" />
+    <path d="M8 6l4-4 4 4" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="12" cy="12" r="3" />
+    <path d="M12 15v7" stroke-linecap="round" />
+    <path d="M8 22h8" stroke-linecap="round" />
+    <path d="M5 9a7 7 0 0 1 14 0" stroke-linecap="round" />
+  </symbol>
+
+  <symbol id="icon-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+    <circle cx="12" cy="12" r="9" />
+    <path d="M12 7v5l3 3" stroke-linecap="round" stroke-linejoin="round" />
+  </symbol>
+
+  <symbol id="icon-diligence" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+    <rect x="2" y="4" width="20" height="13" rx="1.5" />
+    <path d="M8 21h8" stroke-linecap="round" />
+    <path d="M12 17v4" stroke-linecap="round" />
+    <path d="M6 13l3.5-3.5L12 12l5-5" stroke-linecap="round" stroke-linejoin="round" />
+  </symbol>
+
+  <symbol id="icon-tech" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+    <circle cx="12" cy="12" r="3" />
+    <path
+      d="M12 2v3M12 19v3M22 12h-3M5 12H2M19.07 4.93l-2.12 2.12M7.05 16.95l-2.12 2.12M19.07 19.07l-2.12-2.12M7.05 7.05 4.93 4.93"
+      stroke-linecap="round"
+    />
+  </symbol>
+
+  <symbol id="icon-instagram" viewBox="0 0 24 24" fill="currentColor">
+    <path
+      d="M12 2c2.72 0 3.06.01 4.12.06 1.06.05 1.78.22 2.41.46.65.25 1.2.6 1.75 1.15.5.5.9 1.1 1.15 1.75.24.63.41 1.35.46 2.41.05 1.06.06 1.4.06 4.12s-.01 3.06-.06 4.12c-.05 1.06-.22 1.78-.46 2.41a4.9 4.9 0 0 1-1.15 1.75 4.9 4.9 0 0 1-1.75 1.15c-.63.24-1.35.41-2.41.46-1.06.05-1.4.06-4.12.06s-3.06-.01-4.12-.06c-1.06-.05-1.78-.22-2.41-.46a4.9 4.9 0 0 1-1.75-1.15 4.9 4.9 0 0 1-1.15-1.75c-.24-.63-.41-1.35-.46-2.41C2.01 15.06 2 14.72 2 12s.01-3.06.06-4.12c.05-1.06.22-1.78.46-2.41.25-.65.6-1.2 1.15-1.75a4.9 4.9 0 0 1 1.75-1.15c.63-.24 1.35-.41 2.41-.46C8.94 2.01 9.28 2 12 2zm0 2.7A5.3 5.3 0 1 0 12 17.3 5.3 5.3 0 0 0 12 4.7zm0 2A3.3 3.3 0 1 1 12 15.3 3.3 3.3 0 0 1 12 6.7zm5.4-1.9a1.24 1.24 0 1 1 0 2.48 1.24 1.24 0 0 1 0-2.48z"
+    />
+  </symbol>
+
+  <symbol id="icon-twitter" viewBox="0 0 24 24" fill="currentColor">
+    <path
+      d="M18.9 3H21l-6.6 7.55L22.2 21h-6.15l-4.8-6.27L5.7 21H3.6l7.06-8.07L2.8 3h6.3l4.34 5.73L18.9 3zm-1.08 16.17h1.17L7.24 4.75H5.98l11.84 14.42z"
+    />
+  </symbol>
+
+  <symbol id="icon-facebook" viewBox="0 0 24 24" fill="currentColor">
+    <path
+      d="M13.5 21v-8h2.68l.4-3.11h-3.08V7.9c0-.9.25-1.51 1.54-1.51h1.65V3.6c-.29-.04-1.26-.12-2.4-.12-2.37 0-4 1.45-4 4.1v2.29H7.6V13h2.79v8h3.11z"
+    />
+  </symbol>
+
+  <symbol id="icon-linkedin" viewBox="0 0 24 24" fill="currentColor">
+    <path
+      d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.75h4v10.75H3V9.75zm6.5 0h3.83v1.47h.05c.53-1 1.84-2.06 3.79-2.06 4.05 0 4.8 2.67 4.8 6.14v5.7h-4v-5.05c0-1.2-.02-2.75-1.67-2.75-1.67 0-1.93 1.31-1.93 2.66v5.14h-4V9.75z"
+    />
+  </symbol>
+
+  <symbol id="icon-person" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm0 2c-4.42 0-8 2.24-8 5v1h16v-1c0-2.76-3.58-5-8-5Z"/>
+  </symbol>
+  <symbol id="icon-phone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <path d="M6.62 10.79a15.46 15.46 0 0 0 6.59 6.59l2.2-2.2a1 1 0 0 1 1.02-.24c1.12.37 2.33.57 3.57.57a1 1 0 0 1 1 1v3.49a1 1 0 0 1-1 1C11.16 21 3 12.84 3 3.99a1 1 0 0 1 1-1H7.5a1 1 0 0 1 1 1c0 1.24.2 2.45.57 3.57a1 1 0 0 1-.24 1.02l-2.2 2.21Z"/>
+  </symbol>
+  <symbol id="icon-email" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <path d="M4 5h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z"/>
+    <path d="m3 7 9 6 9-6"/>
+  </symbol>
+  <symbol id="icon-close" viewBox="0 0 8 8" fill="none" stroke="currentColor" stroke-width="1.5">
+    <path d="M1 1l6 6M7 1 1 7"/>
+  </symbol>
+  <symbol id="icon-check" viewBox="0 0 10 8" fill="none" stroke="currentColor" stroke-width="1.5">
+    <path d="m1 4 2.5 2.5L9 1"/>
+  </symbol>
+  <symbol id="icon-send" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M2.3 3.1 21.7 11c.4.16.4.72 0 .88L2.3 19.9c-.42.17-.82-.23-.66-.66l2.18-5.96a.5.5 0 0 1 .37-.32L13 11.44a.45.45 0 0 0 0-.88l-8.81-1.52a.5.5 0 0 1-.37-.32L1.64 3.76c-.16-.43.24-.83.66-.66Z"/>
+  </symbol>
+</svg>
